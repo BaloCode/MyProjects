@@ -1,0 +1,14 @@
+﻿Your Goal :
+You should write the numbers (or letters, according to the gamemode you're playing)
+in the order they appeared on screen. Each time you enter the correct order of
+numbers/letters you will be rewarded with ten (10) points, as soon as you
+enter the wrong order your score will be erased.
+
+Developed By :
+George Kalvaris
+Prodomos Andronikou
+Dimitris Mpalokas
+Jim Peppas
+
+Music and sound By :
+Jim Peppas

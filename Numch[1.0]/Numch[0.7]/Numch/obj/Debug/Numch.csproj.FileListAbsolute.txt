@@ -1,0 +1,45 @@
+c:\users\meets_000\documents\visual studio 2015\Projects\Numch\Numch\bin\Debug\Numch.exe.config
+c:\users\meets_000\documents\visual studio 2015\Projects\Numch\Numch\bin\Debug\Numch.exe
+c:\users\meets_000\documents\visual studio 2015\Projects\Numch\Numch\bin\Debug\Numch.pdb
+c:\users\meets_000\documents\visual studio 2015\Projects\Numch\Numch\obj\Debug\Numch.csprojResolveAssemblyReference.cache
+c:\users\meets_000\documents\visual studio 2015\Projects\Numch\Numch\obj\Debug\Numch.Properties.Resources.resources
+c:\users\meets_000\documents\visual studio 2015\Projects\Numch\Numch\obj\Debug\Numch.csproj.GenerateResource.Cache
+c:\users\meets_000\documents\visual studio 2015\Projects\Numch\Numch\obj\Debug\Numch.exe
+c:\users\meets_000\documents\visual studio 2015\Projects\Numch\Numch\obj\Debug\Numch.pdb
+c:\users\meets_000\documents\visual studio 2015\Projects\Numch\Numch\obj\Debug\Numch.MainMenu.resources
+c:\users\meets_000\documents\visual studio 2015\Projects\Numch\Numch\obj\Debug\Numch.SettingsForm.resources
+c:\users\meets_000\documents\visual studio 2015\Projects\Numch\Numch\obj\Debug\Numch.GameNum.resources
+C:\Users\meets_000\documents\visual studio 2015\Projects\Numch\Numch\bin\Debug\NAudio.dll
+C:\Users\meets_000\documents\visual studio 2015\Projects\Numch\Numch\obj\Debug\Numch.GameMode.resources
+C:\Users\meets_000\documents\visual studio 2015\Projects\Numch\Numch\obj\Debug\Numch.GameLetters.resources
+C:\Users\meets_000\documents\visual studio 2015\Projects\Numch\Numch\obj\Debug\Numch.Help.resources
+C:\Users\George Kalvaris\Downloads\Numch[0.7]\Numch\bin\Debug\Numch.exe.config
+C:\Users\George Kalvaris\Downloads\Numch[0.7]\Numch\obj\Debug\Numch.exe
+C:\Users\George Kalvaris\Downloads\Numch[0.7]\Numch\obj\Debug\Numch.pdb
+C:\Users\George Kalvaris\Downloads\Numch[0.7]\Numch\bin\Debug\Numch.exe
+C:\Users\George Kalvaris\Downloads\Numch[0.7]\Numch\bin\Debug\Numch.pdb
+C:\Users\George Kalvaris\Downloads\Numch[0.7]\Numch\bin\Debug\NAudio.dll
+C:\Users\George Kalvaris\Downloads\Numch[0.7]\Numch\obj\Debug\Numch.csprojResolveAssemblyReference.cache
+C:\Users\George Kalvaris\Downloads\Numch[0.7]\Numch\obj\Debug\Numch.MainMenu.resources
+C:\Users\George Kalvaris\Downloads\Numch[0.7]\Numch\obj\Debug\Numch.GameNum.resources
+C:\Users\George Kalvaris\Downloads\Numch[0.7]\Numch\obj\Debug\Numch.GameMode.resources
+C:\Users\George Kalvaris\Downloads\Numch[0.7]\Numch\obj\Debug\Numch.GameLetters.resources
+C:\Users\George Kalvaris\Downloads\Numch[0.7]\Numch\obj\Debug\Numch.Help.resources
+C:\Users\George Kalvaris\Downloads\Numch[0.7]\Numch\obj\Debug\Numch.Properties.Resources.resources
+C:\Users\George Kalvaris\Downloads\Numch[0.7]\Numch\obj\Debug\Numch.csproj.GenerateResource.Cache
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\bin\Debug\Numch.exe.config
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\bin\Debug\Numch.exe
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\bin\Debug\Numch.pdb
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\bin\Debug\NAudio.dll
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\obj\Debug\Numch.csprojAssemblyReference.cache
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\obj\Debug\Numch.MainMenu.resources
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\obj\Debug\Numch.GameNum.resources
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\obj\Debug\Numch.GameMode.resources
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\obj\Debug\Numch.GameLetters.resources
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\obj\Debug\Numch.Help.resources
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\obj\Debug\Numch.Properties.Resources.resources
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\obj\Debug\Numch.csproj.GenerateResource.cache
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\obj\Debug\Numch.csproj.CoreCompileInputs.cache
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\obj\Debug\Numch.csproj.CopyComplete
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\obj\Debug\Numch.exe
+C:\Users\eftap\Downloads\Numch[1.0]\Numch[0.7]\Numch\obj\Debug\Numch.pdb
